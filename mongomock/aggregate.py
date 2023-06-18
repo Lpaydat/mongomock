@@ -15,6 +15,7 @@ import sys
 import warnings
 
 import pytz
+import six
 from packaging import version
 from sentinels import NOTHING
 
